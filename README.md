@@ -29,7 +29,7 @@ Concise summary of process at [Understand context and diminish risk: How to buil
 
 **Video Showing the Process**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/84vV8fj4Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/84vV8fj4Ljg
 
 ## Resources
 
