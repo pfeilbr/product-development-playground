@@ -10,6 +10,10 @@ Concise summary of process at [Understand context and diminish risk: How to buil
 
 * use mapping as a way to quickly validate solutions and avoid costly mistakes – to identify what to build, buy and outsource
 * map minimizes the chance that I’ll miss something important
+* a more evolved component can be outsourced and treated like a building block, while a less evolved component usually needs to be built from scratch or given other special consideration (money, time and energy).
+* The real danger is in mistreating a more evolved component by building it from scratch.
+* Outsourcing highly evolved components is a critical aspect of building cost-effective solutions.
+* Since you have limited resources, it makes sense to save them for the components that actually need special treatment.
 
 **Map**
 
