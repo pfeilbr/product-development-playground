@@ -1,5 +1,10 @@
 # product-development-playground
 
+product, product development, strategy
+
+---
+
+
 ## Wardley Mapping
 
 > A Wardley Map is a representation of the landscape in which a business operates. It consists of a value chain (activities needed to fulfill user needs) graphed against evolution (how individual activities change over time under supply and demand competition). A Wardley Map represents the situational awareness and shared assumptions being made about a context and hints at what strategic options are available.
