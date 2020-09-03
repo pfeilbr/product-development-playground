@@ -27,12 +27,17 @@ Concise summary of process at [Understand context and diminish risk: How to buil
 
 ![](https://www.evernote.com/l/AAG_M8vz3yRILIqMp5kllpNqz2Y7tVkmLlUB/image.png)
 
+**Video Showing the Process**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/84vV8fj4Ljg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Resources
 
 * [`wardley-map-powerpoint-template.potx`](wardley-map-powerpoint-template.potx)
 * [Wardley Maps](https://wardley-maps-community.github.io/awesome-wardley-maps/)
 * [medium.com/wardleymaps](https://medium.com/wardleymaps)
 * [Wardley map - Wikipedia](https://en.wikipedia.org/wiki/Wardley_map)
+* [Intro to Wardley Mapping](https://hiredthought.com/2018/09/01/intro-to-wardley-mapping/)
 * [Understand context and diminish risk: How to build your first Wardley Map with Miro](https://miro.com/blog/wardley-maps-whiteboard-canvas/)
 * [https://twitter.com/swardley](https://twitter.com/swardley)
 * [https://twitter.com/dvassallo](https://twitter.com/dvassallo)
