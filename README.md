@@ -4,6 +4,8 @@
 
 > A Wardley Map is a representation of the landscape in which a business operates. It consists of a value chain (activities needed to fulfill user needs) graphed against evolution (how individual activities change over time under supply and demand competition). A Wardley Map represents the situational awareness and shared assumptions being made about a context and hints at what strategic options are available.
 
+Concise summary of process at [Understand context and diminish risk: How to build your first Wardley Map with Miro](https://miro.com/blog/wardley-maps-whiteboard-canvas/)
+
 **Key Points**
 
 * use mapping as a way to quickly validate solutions and avoid costly mistakes – to identify what to build, buy and outsource
@@ -12,7 +14,8 @@
 **Map**
 
 * Y-axis - value chain.  invisible (bottom) to visible (top). user at top
-* X-axis - genesis, custom, product, commodity
+* X-axis - genesis *(new, uncertain, failure-prone)*, custom, product, commodity *(old, boring, reliable)*
+
 
 **Example(s)**
 
