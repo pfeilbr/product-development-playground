@@ -39,7 +39,7 @@ https://www.youtube.com/embed/84vV8fj4Ljg
 ## Resources
 
 * [`wardley-map-powerpoint-template.potx`](wardley-map-powerpoint-template.potx)
-* [Wardley Maps](https://wardley-maps-community.github.io/awesome-wardley-maps/)
+* [wardley-maps-community.github.io/awesome-wardley-maps˝](https://wardley-maps-community.github.io/awesome-wardley-maps/)
 * [medium.com/wardleymaps](https://medium.com/wardleymaps)
 * [Wardley map - Wikipedia](https://en.wikipedia.org/wiki/Wardley_map)
 * [Intro to Wardley Mapping](https://hiredthought.com/2018/09/01/intro-to-wardley-mapping/)
